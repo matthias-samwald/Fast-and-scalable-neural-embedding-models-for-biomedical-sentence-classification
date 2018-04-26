@@ -4,4 +4,4 @@ This repository contains code for the publication "Fast and scalable neural embe
 
 [Download fastText model for classifying single sentences](http://samwald.info/res/fasttext-model-without-context-for-distribution.bin)
 
-[Download fastText model for classifying sentences preprocessed to contain context sentences (offsets -2, -1, +1, +2) and numeric sentenc positions](http://samwald.info/res/fasttext-model-with-context-for-distribution.bin)
+[Download fastText model for classifying sentences preprocessed to contain context sentences (offsets -2, -1, +1, +2) and numeric sentence positions](http://samwald.info/res/fasttext-model-with-context-for-distribution.bin)
